@@ -1,6 +1,6 @@
 import utils.ManipulandoPattern;
 
-public class Main2 {
+public class Main {
 
 
     public static void main(String[] args){
