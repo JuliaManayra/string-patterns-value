@@ -5,6 +5,7 @@ public class Main {
 
     public static void main(String[] args){
 
+        //teste
         ManipulandoPattern pattern = new ManipulandoPattern();
 
         System.out.println("entrada: (abc){3} ->  SAIDA:  "+ pattern.getValuePattern("(abc){3}"));
